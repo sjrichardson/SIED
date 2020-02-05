@@ -1,2 +1,2 @@
 # SIED
-##Steganopraphy Image Encryption and Decryption
+## Steganopraphy Image Encryption and Decryption
